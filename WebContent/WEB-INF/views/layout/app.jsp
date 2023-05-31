@@ -5,7 +5,6 @@
     <head>
         <meta charset="UTF-8">
         <title>タスク管理</title>
-       
     </head>
     <body>
         <div id="wrapper">
