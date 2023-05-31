@@ -13,12 +13,12 @@ import javax.servlet.annotation.WebFilter;
  * Servlet Filter implementation class EncordingFilter
  */
 @WebFilter("/*")
-public class EncordingFilter implements Filter {
+public class EncodingFilter implements Filter {
 
     /**
      * Default constructor. 
      */
-    public EncordingFilter() {
+    public EncodingFilter() {
         // TODO Auto-generated constructor stub
     }
 
